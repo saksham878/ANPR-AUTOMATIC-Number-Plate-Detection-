@@ -1,0 +1,33 @@
+Vehicle Number,Owner Name,Vehicle Name,Year,Fuel Type,Seller Type,Transmission,Owner Type
+['MP 17 MQ 4136'],Aarav Patel,Hero Glamour,2014,Petrol,Dealer,Manual,First Owner
+['SK 01 PC 0456'],Priya Sharma,BMW M2,2013,Diesel,Dealer,Automatic,First Owner
+['KL 64 H 7345'],Advik Singh,TVS Jupiter,2017,Petrol,Dealer,Manual,First Owner
+['RJ 22 SF 9769'],Aisha Kapoor,Honda Activa,2011,Petrol,Dealer,Manual,First Owner
+['MH 04 H 9908'],Kabir Desai,Mahindra Pick-up Truck,2014,Diesel,Dealer,Manual,Second Owner
+['UP 38 F 2859'],Ishika Mehta,TVS XL100,2018,Diesel,Dealer,Manual,First Owner
+['MP 07 HB 8260'],Arjun Gupta,Tata Truck,2015,Petrol,Dealer,Manual,First Owner
+['BR 07 AB 1993'],Diya Reddy,Bajaj Platina,2015,Diesel,Dealer,Manual,Second Owner
+['MP 09 QP 1111'],Vihaan Joshi,Royal Enfield Bullet,2016,Diesel,Dealer,Manual,First Owner
+['KL 04 AL 7703'],Ananya Mishra,Royal Enfield Bullet,2015,Diesel,Dealer,Manual,First Owner
+['MP 07 GA 1533'],Aryan Malhotra,Tata Truck,2017,Petrol,Dealer,Manual,First Owner
+['KA 38 M 1674'],Avani Shah,Mahindra Bolero,2015,Diesel,Dealer,Manual,First Owner
+['UP 64 W 4388'],Krish Nair,Hero Splendor,2015,Petrol,Dealer,Manual,First Owner
+['MH 20 BC 5122'],Sanaya Verma,Chevrolet Tavera Neo,2015,Petrol,Dealer,Manual,First Owner
+['BR 09 V 7267'],Virat Kumar,Hyundai i10,2009,Petrol,Dealer,Manual,First Owner
+['DL 8 SBT 6438'],Zara Chopra,TVS Jupiter,2016,Diesel,Dealer,Manual,First Owner
+['TN 18 D 1866'],Rohan Banerjee,Tata Magic,2015,Diesel,Dealer,Manual,First Owner
+['TN 23 L 4547'],Riya Khanna,Toyota Qualis,2016,Diesel,Dealer,Manual,Second Owner
+['AP 28 BW 9994'],Yuvraj Sengupta,Hyundai Santro,2015,CNG,Dealer,Manual,First Owner
+['KL 02 BM 4659'],Ishani Chatterjee,Tata Altroz,2010,Petrol,Dealer,Manual,First Owner
+['JH 05 AW 2117'],Kabir Bhatia,TVS XL100,2016,Petrol,Dealer,Manual,Second Owner
+['AP 29 AN 0074'],Meera Rao,Hyundai Santro,2017,Petrol,Dealer,Manual,First Owner
+['MH 12 NE 8922'],Aadi Khatri,Mercedes GLA200,2013,Diesel,Dealer,Automatic,First Owner
+['MH 14  GN 9239 '],Tanisha Choudhury,Jeep Compass,2018,Diesel,Dealer,Automatic,First Owner
+['MH 20 EE 7596'],Reyansh Rana,Skoda Octavia,2011,Diesel,Dealer,Automatic,First Owner
+['DL 7 CQ 1939 '],Saanvi Singhania,Hyundai Creta,2015,Diesel,Individual,Manual,First Owner
+['MH 13 BN 8454 '],Arnav Mehta,Audi A3,2019,Petrol,Individual,Manual,First Owner
+['DL 3C AW 2927'],Dia Banerjee,Jaguar I-Pace,2010,Petrol,Dealer,Automatic,First Owner
+['KL 01 CA 2555'],Aarush Patel,Maruti Suzuki Ciaz,2014,Petrol,Individual,Manual,Fourth & Above Owner
+['MH 01 AV 8866 '],Ishita Chauhan,Volkswagen Polo,2013,Diesel,Dealer,Automatic,Second Owner
+['DL 7C N 5617'],Vihaan Sharma,Fiat Punto,2009,Diesel,Dealer,Automatic,Third Owner
+[],Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
